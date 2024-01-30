@@ -1,9 +1,10 @@
-#Agence Clape Admin Console
+# Agence Clape Admin Console
 
-Overview
+## Overview
 
 The Agence Clape Admin Console is a web application developed as a part of our internship group project. The main purpose of this project is to provide a comprehensive tool for project managers at Agence Clape to efficiently manage projects, create surveys for potential clients, collect and analyze responses, and generate quotes.
-Features
+
+## Features
 1. Survey Management
 
     Create Surveys: Managers can create surveys for potential clients with different types of questions.
@@ -30,7 +31,7 @@ Features
 
     Email Integration: The system enables managers to send generated links to clients via email for a seamless communication process.
 
-Tech Stack
+## Tech Stack
 
 The project is implemented using the following technologies:
 
